@@ -1,5 +1,6 @@
 # agilent
 安捷伦数据维护工具
+技术支持： windwang@gmail.com
 
 ## 已经支持的功能
 ### Chem数据的维护修正
